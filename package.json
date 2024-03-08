@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "File management API built with Node.js.",
   "author": "Yohannes Mebrahtom <jhon.klaus2008@gmail.com>",
-  "license": "MIT",
   "private": true,
   "main": "server.js",
   "scripts": {
